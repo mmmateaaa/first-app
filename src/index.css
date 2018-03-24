@@ -1,0 +1,17 @@
+/*index.js*/
+.name-input{
+  margin: 15px 0;
+}
+
+/*keyquota_editor.js*/
+.inline {
+  display: inline;
+}
+
+.keyquota-list Button {
+  margin-bottom: 15px;
+}
+
+.keyquota-list-delete{
+  float: right;
+}
